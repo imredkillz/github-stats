@@ -5,7 +5,6 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-d1a01f?style=for-the-badge&logo=JavaScript&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=C++&logoColor=659AD2&labelColor=282828">
     <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=C++&logoColor=98b982&labelColor=282828">
 </div>
 </p>
