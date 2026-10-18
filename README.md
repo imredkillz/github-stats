@@ -5,11 +5,12 @@
 </div>
 
 ### 📊 Statistiche GitHub
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imredkillz&show_icons=true&radical=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&locale=it" />
-<img src="https://streak-stats.demolab.com?user=imredkillz&radical=tokyonight&hide_border=true&background=0D1117&locale=it" />
-</p>
+<div align="center">
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imredkillz&layout=compact&langs_count=6&radical=tokyonight&hide_border=true&bg_color=0D1117&locale=it" />
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imredkillz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&locale=it" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imredkillz&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=it" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=imredkillz&theme=tokyonight&hide_border=true&background=0D1117&locale=it" />
+</div>
