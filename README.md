@@ -5,16 +5,11 @@
 </div>
 
 ### 📊 Statistiche GitHub
+<p align="center">
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=accanito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=accanito&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
 
-<div align="center">
-  <!-- Card Principale Statistiche -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imredkillz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  
-  <!-- Card Linguaggi più usati -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imredkillz&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=imredkillz&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
+<p align="center">
+  <img height="165px" src="https://streak-stats.demolab.com?user=accanito&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
