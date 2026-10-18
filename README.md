@@ -1,13 +1,8 @@
 <div align="center">
-  <h1>Ciao, sono imredkillz 👋</h1>
-  
-  <!-- Badge Server Discord (Mostra gli utenti online in tempo reale) -->
   <a href="https://discord.gg/KbSjwkUqyM">
-<img src="https://img.shields.io/discord/ID_DEL_TUO_SERVER?color=5865F2&label=Entra%20nel%20Server%20Discord&logo=discord&logoColor=white&style=for-the-badge&cacheSeconds=60" alt="Discord Server" />
+    <img src="https://img.shields.io/badge/Discord-3000%2B_Membri-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="HeartlessItalia" />
   </a>
 </div>
-
-<br />
 
 ### 📊 Statistiche GitHub
 
