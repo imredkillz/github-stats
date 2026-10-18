@@ -6,10 +6,10 @@
 
 ### 📊 Statistiche GitHub
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imredkillz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&locale=it" />
-<img src="https://streak-stats.demolab.com?user=imredkillz&theme=tokyonight&hide_border=true&background=0D1117&locale=it" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imredkillz&show_icons=true&radical=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&locale=it" />
+<img src="https://streak-stats.demolab.com?user=imredkillz&onedark=tokyonight&hide_border=true&background=0D1117&locale=it" />
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imredkillz&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=it" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imredkillz&layout=compact&langs_count=6&transparent=tokyonight&hide_border=true&bg_color=0D1117&locale=it" />
 </p>
