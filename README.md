@@ -3,7 +3,7 @@
   
   <!-- Badge Server Discord (Mostra gli utenti online in tempo reale) -->
   <a href="https://discord.gg/KbSjwkUqyM">
-    <img src="https://img.shields.io/discord/1284267900089143430?color=5865F2&label=Entra%20nel%20Server%20Discord&logo=discord&logoColor=white&style=for-the-badge" alt="HeartlessItalia" />
+<img src="https://img.shields.io/discord/ID_DEL_TUO_SERVER?color=5865F2&label=Entra%20nel%20Server%20Discord&logo=discord&logoColor=white&style=for-the-badge&cacheSeconds=60" alt="Discord Server" />
   </a>
 </div>
 
