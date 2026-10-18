@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imredkillz&layout=compact&langs_count=6&transparent=tokyonight&hide_border=true&bg_color=0D1117&locale=it" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imredkillz&layout=compact&langs_count=6&onedark=tokyonight&hide_border=true&bg_color=0D1117&locale=it" />
 </p>
