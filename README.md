@@ -1,16 +1,39 @@
+<h1 align="center">
+  <b>Accanito</b>
+</h1>
+
+<p>
 <div align="center">
-  <a href="https://discord.gg/KbSjwkUqyM">
-    <img src="https://img.shields.io/badge/Discord-3000%2B_Membri-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="HeartlessItalia" />
+  <img src="https://img.shields.io/badge/-JavaScript-d1a01f?style=for-the-badge&logo=JavaScript&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=C++&logoColor=659AD2&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=C++&logoColor=98b982&labelColor=282828">
+</div>
+</p>
+
+```JavaScript
+class Accanito extends Profile {
+  constructor() {
+    this.name = "Alberto";
+    this.username = "Accanito";
+    this.location = "Italy";
+    this.languages = ["JavaScript", "Typescript", "Python", "C++"];
+    this.discord = "accanito";
+  }
+  name() {
+    return this.name;
+  }
+}
+
+const me = new Accanito();
+```
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://github.com/raffreddat0/">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=accanito&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=accanito&theme=gruvbox&hide_border=true" />
   </a>
-</div>
-
-### 📊 Statistiche GitHub
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imredkillz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&locale=it" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imredkillz&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=it" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=imredkillz&theme=tokyonight&hide_border=true&background=0D1117&locale=it" />
-</div>
+</p>
+<br>
